@@ -1,4 +1,5 @@
-## Hi there 👋
+## Привет!!! 👋
+Учусь на QA автоматизатора в Я. Практикуме
 
 <!--
 **xDemansx/xDemansx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
